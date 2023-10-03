@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drmccann
-- 👀 I’m interested in Python, VBA, AssetBank, Odoo, Shipstation, VSCode
+- 👀 I’m interested in Python, AssetBank, Odoo, Shipstation, VSCode, Acumatica
 - 🌱 I’m currently improving my branch and version control, along with better OAuth2 practices
 - 💞️ I’m looking to collaborate on a BBS-like project (yes, from back in the day).
 - 📫 How to reach me - send a message on Git!
